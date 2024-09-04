@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "645954717420",
+    "firebase_url": "https://fitsheild-f7db2-default-rtdb.firebaseio.com",
+    "project_id": "fitsheild-f7db2",
+    "storage_bucket": "fitsheild-f7db2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645954717420:android:902eddb3fcd9cb030e47c9",
+        "android_client_info": {
+          "package_name": "com.example.fitsheild"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DIo1aIXTcZxeFr6Pzg6-g9y1t_JiZDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
